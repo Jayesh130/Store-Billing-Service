@@ -1,0 +1,10 @@
+Razer Blade, Razer, $2000, 29, Intel i5, RTX 2060
+XPS, Dell, $1976, 17, Intel i7, RTX 2060
+Alienware, Alienware, $1978, 29, Intel i9, RTX 2060
+Swift 7, Acer, $900, 19, Intel i5, GTX 1060
+Macbook Pro 16, Apple, $3500, 20, Intel i5, GTX 1660
+Pavillion, HP, $2100, 20, Intel i3, RTX 2070
+XP, Dell, $1876, 15, Intel i3, RTX 2060
+Macbook Air, M2, $1678, 24, Intel i9, RTX 2060
+Swift 7, Acer, $800, 12, Intel i7, GTX 960
+Macbook Pro 16, Apple, $3200, 20, Intel i3, RTX 2060
